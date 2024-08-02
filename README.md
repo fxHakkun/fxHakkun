@@ -19,8 +19,8 @@
           "languages": ["Python", "Arduino", "C++"],
           "level(In Order)" : ["Intermediate..maybe", "Intermediate..maybe too", "Beginner..Long time no use"]
             "technologies":["RaspPi4", "VisualCode", "Arduino"]
-          }
         }
+      }
     ]
   }
 }
