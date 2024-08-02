@@ -5,7 +5,7 @@
 - 📫 How to reach me: My IG : hammadabdkarim
 - 📫 How to reach me: Email : hammad.ak96@gmail.com
 - ⚡ Fun fact: FullTime Weeboo (🤣)
-```
+```json
 {
   "Hammad Abdul Karim": {
     "Profile": [
@@ -14,14 +14,13 @@
         "pronouns": "OniiChan !",
         "location": "Selangor/N9, MY",
         "workplace": {
-          "company": "Unemployed :( //",
+          "company": "Unemployed yet 😁 //",
           "position": "Graduated list-Student"
           "languages": ["Python", "Arduino", "C++"],
           "level(In Order)" : ["Intermediate..maybe", "Intermediate..maybe too", "Beginner..Long time no use"]
             "technologies":["RaspPi4", "VisualCode", "Arduino"]
           }
         }
-      }
     ]
   }
 }
