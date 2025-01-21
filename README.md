@@ -1,7 +1,8 @@
 # Hakkun as Person
 
-- 🔭 I’m currently working on equipping myself with Python. Focus on Improving Myself 💪💪💪
+- 🔭 Currently improving myself with Python by equipping myself in Machine Learning. Focus on Improving Myself 💪💪💪
 - 🌱 I’m currently learning so everything in this 'Verse' is quite new to me. So do suggesting to myself for room of improvement. Open for critics 😆
+- 📫 How to reach me: www.linkedin.com/in/hammadak96
 - 📫 How to reach me: My IG : hammadabdkarim
 - 📫 How to reach me: Email : hammad.ak96@gmail.com
 - ⚡ Fun fact: FullTime Weeboo (🤣)
@@ -11,11 +12,11 @@
     "Profile": [
       {
         "about": "I'm not worthy but.. Teach me Senpai !!!",
-        "pronouns": "OniiChan !",
+        "pronouns": "OniiChan !(lol)",
         "location": "Selangor/N9, MY",
         "workplace": {
-          "company": "Unemployed yet 😁 //",
-          "position": "Graduated list-Student"
+          "company": "Freelance 😁 //",
+          "position": "Graduated Student"
           "languages": ["Python", "Arduino", "C++"],
           "level(In Order)" : ["Intermediate..maybe", "Intermediate..maybe too", "Beginner..Long time no use"]
             "technologies":["RaspPi4", "VisualCode", "Arduino"]
