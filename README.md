@@ -6,6 +6,9 @@
 - 📫 How to reach me: My IG : hammadabdkarim
 - 📫 How to reach me: Email : hammad.ak96@gmail.com
 - ⚡ Fun fact: FullTime Weeboo (🤣)
+- On Journey transitioning to JS now. Wish me LUCK!
+## 🌐 My Projects 
+<ins>MiniPortfolio</ins> [:page_with_curl:](https://fxhakkun.github.io/JS-Project/)
 ```json
 {
   "Hammad Abdul Karim": {
