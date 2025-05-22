@@ -9,6 +9,7 @@
 - On Journey transitioning to JS now. Wish me LUCK!
 ## 🌐 My Projects
 List of my projects been done :⤵️
+
 <ins>MiniPortfolio</ins> [:page_with_curl:](https://fxhakkun.github.io/JS-Project/)
 ```json
 {
