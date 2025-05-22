@@ -7,7 +7,8 @@
 - 📫 How to reach me: Email : hammad.ak96@gmail.com
 - ⚡ Fun fact: FullTime Weeboo (🤣)
 - On Journey transitioning to JS now. Wish me LUCK!
-## 🌐 My Projects 
+## 🌐 My Projects
+List of my projects been done :⤵️
 <ins>MiniPortfolio</ins> [:page_with_curl:](https://fxhakkun.github.io/JS-Project/)
 ```json
 {
@@ -20,7 +21,7 @@
         "workplace": {
           "company": "Freelance 😁 //",
           "position": "Graduated Student"
-          "languages": ["Python", "Arduino", "C++"],
+          "languages": ["Python", "Javascript", "HTML", "CSS", "Arduino", "C++"],
           "level(In Order)" : ["Intermediate..maybe", "Intermediate..maybe too", "Beginner..Long time no use"]
             "technologies":["RaspPi4", "VisualCode", "Arduino"]
         }
