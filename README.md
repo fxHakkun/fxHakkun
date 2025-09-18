@@ -22,9 +22,8 @@ List of my projects been done :⤵️
         "workplace": {
           "company": "Freelance 😁 //",
           "position": "Graduated Student"
-          "languages": ["Python", "Javascript", "HTML", "CSS", "Arduino", "C++"],
-          "level(In Order)" : ["Intermediate..maybe", "Intermediate..maybe too", "Beginner..Long time no use"]
-            "technologies":["RaspPi4", "VisualCode", "Arduino"]
+          "languages": ["Python", "Ruby", "Javascript", "HTML", "CSS", "Arduino", "C++"],
+            "technologies":["Rails", "ReactNative", "NodeJS", "Keras", "Scikit-learn" "RaspPi4", "VisualCode", "Arduino"]
         }
       }
     ]
