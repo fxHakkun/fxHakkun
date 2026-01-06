@@ -6,14 +6,19 @@
 - 📫 How to reach me: My IG: hammadabdkarim
 - 📫 How to reach me: Email: hammad.ak96@gmail.com
 - ⚡ Fun fact: FullTime Weeboo (🤣)
-- On Journey transitioning to JS now. Wish me LUCK!
+- On Journey transitioning to Laravel now. Wish me LUCK!
 ## 🌐 My Projects
 List of my projects done:⤵️
 
-<ins>MiniPortfolio (stalemate, didn't have time to proceed lol)</ins> [:page_with_curl:](https://fxhakkun.github.io/JS-Project/)
-<ins>Loyalty E Commerce App(BE & Some FE)</ins>
-<ins>Parliment Website</ins>
-More project details can be found on my LinkedIn. :)
+- MiniPortfolio (stalemate, didn't have time to proceed lol) [:page_with_curl:](https://fxhakkun.github.io/JS-Project/)
+- Loyalty E Commerce App(Rails BE & RN Expo FE)
+- Parliment Website (Rails FE and BE)
+- Cat and Dog Guesser (ML Model Training)
+- House Price Prediction (ML Model Training)
+- Simple Chatbox (Didnt manage to complete this yet)
+
+#### More project details can be found on my LinkedIn. :)
+
 ```json
 {
   "Hammad Abdul Karim": {
@@ -26,7 +31,7 @@ More project details can be found on my LinkedIn. :)
           "company": "Temu Services(Freelance😁)",
           "position": "Developer"
           "languages": ["Python", "Ruby", "PHP(currently_learning)", "Javascript", "HTML", "CSS", "Arduino", "C++"],
-          "technologies": ["Rails", "Laravel(currently_learning) "ReactNative", "NodeJS", "Keras", "Scikit-learn" "RaspPi4", "VisualCode", "Arduino"]
+          "technologies": ["Rails", "Laravel(currently_learning)", "ReactNative", "NodeJS", "Keras", "Scikit-learn" "RaspPi4", "VisualCode", "Arduino"]
         }
       }
     ]
