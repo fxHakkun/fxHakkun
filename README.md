@@ -43,19 +43,26 @@ List of my projects done:⤵️
 
 ## Until Today, fxHakkun...
 
-- Built and maintained production payment gateway APIs handling real merchant transactions (PHP, Laravel)
-- Developed and debugged async background job workers using Gearman for payment processing pipelines
-- Worked across merchant portal backend — transaction flows, auth, reporting, and refund handling
-- Practised test-driven development with PHPUnit, writing integration tests against real APIs with live data
-- Integrated machine learning services into production backend systems
-- Grew from Rails/React Native hobbyist into a professional PHP/Laravel backend engineer
+- Shipped async settlement report workers via Gearman for multiple payment channels (Nuvei, TNG Miniapp, RHB, dLocal) — S3 delivery and SFTP with RSA key auth
+- Built and maintained payment gateway features full-stack: PHP Gearman workers, Laravel API, and Vue.js merchant portal frontend
+- Developed new admin portal pages for VAS merchant settings, CIL surcharge defaults, and BDO gateway configuration
+- Implemented payment link enhancements — drag-and-drop product reordering and promo image upload with S3 integration
+- Integrated SAP business partner creation and e-invoice workflows into production Gearman workers
+- Wrote PHPUnit integration tests against real local APIs with live seeded data — no mocks, no stubs
+- Applied security hardening across the codebase: SQL injection prevention, sensitive log masking, RSA key path protection
+- Maintained PHP 5.6–8.1 compatibility across legacy payment workers while enforcing code quality via PHPMD, PHPCS, and CodeRabbit
 
 ---
 
 ## 📓 Dev Log
 
 <!-- TODAY_START -->
-_No entries yet — first log coming soon._
+**2026-07-03 — Thursday**
+> Investigated a DB schema issue with senior engineer and DBA to align on the correct solution before review
+
+- Reviewed and discussed a DB-related MR with senior engineer and DBA
+- Traced the root cause and evaluated solution options across the team
+- Reached consensus on the proper DB fix before passing the MR to reviewer
 <!-- TODAY_END -->
 
 <!-- PEEK_START -->
